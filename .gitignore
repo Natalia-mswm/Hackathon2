@@ -1,0 +1,5 @@
+# ignore all .a files
+*.a
+
+# csv файлы не отслеживаются
+*.csv
