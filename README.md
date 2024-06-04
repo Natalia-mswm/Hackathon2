@@ -57,3 +57,7 @@
 
 -[Информация о погодных условиях в Нью-Йорке в 2016 году](https://lms.skillfactory.ru/asset-v1:Skillfactory+URFUML2023+SEP2023+type@asset+block@weather_data.zip)
 
+-[Тестовая выборка](https://drive.google.com/file/d/1C2N2mfONpCVrH95xHJjMcueXvvh_-XYN/view?usp=sharing)
+
+-[Файл с данными из OSRM API для тестовой выборки](https://drive.google.com/file/d/1wCoS-yOaKFhd1h7gZ84KL9UwpSvtDoIA/view?usp=sharing)
+
