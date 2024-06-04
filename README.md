@@ -5,13 +5,13 @@
 
 ### Участники группы:
 
-| Участник      |            Почта               |
-|:--------------|:------------------------------:|
-| Попова Илона  |     ilona-u@mail.ru        |
-| Рагимов Александр |    ingeloflame@gmail.com |
-| Максимова Наталья |       Natalia-k.97@mail.ru     |
-| Сергеев Владимир |        vvsergeev87@gmail.com    |
-| Архипов Д.А.  | arkhipov.danil2015@gmail.com   |
+| Участник      |            Почта               |         Роль         |
+|:--------------|:------------------------------:|:--------------------:|
+| Попова Илона  |     ilona-u@mail.ru        |    Лидер проекта     |
+| Рагимов Александр |    ingeloflame@gmail.com |   QA, тестирование   |
+| Максимова Наталья |       Natalia-k.97@mail.ru     |   Аналитик данных    |
+| Сергеев Владимир |        vvsergeev87@gmail.com    |    Data scientist    |
+| Архипов Д.А.  | arkhipov.danil2015@gmail.com   | Технический писатель |
 
 ## Основные цели:
 - Сформировать набор данных на основе нескольких источников информации.
@@ -49,3 +49,15 @@
 
 ### Целевой признак:
 - trip_duration — продолжительность поездки в секундах.
+
+### Дополнительные датасеты
+-[Праздничные даты](https://lms.skillfactory.ru/asset-v1:Skillfactory+URFUML2023+SEP2023+type@asset+block@holiday_data.csv)
+
+-[Файлы с данными из OSRM](https://drive.google.com/file/d/1ecWjor7Tn3HP7LEAm5a0B_wrIfdcVGwR/view?usp=sharing)
+
+-[Информация о погодных условиях в Нью-Йорке в 2016 году](https://lms.skillfactory.ru/asset-v1:Skillfactory+URFUML2023+SEP2023+type@asset+block@weather_data.zip)
+
+-[Тестовая выборка](https://drive.google.com/file/d/1C2N2mfONpCVrH95xHJjMcueXvvh_-XYN/view?usp=sharing)
+
+-[Файл с данными из OSRM API для тестовой выборки](https://drive.google.com/file/d/1wCoS-yOaKFhd1h7gZ84KL9UwpSvtDoIA/view?usp=sharing)
+
